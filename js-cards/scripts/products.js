@@ -6,8 +6,9 @@ export const products = [
       stars: 5,
       count: 95
     },
-    priceCents: 1090,
+    priceCents: 1095,
   },
+
   {
     image: 'luxury-tower-set-6-piece.jpg',
     name: 'luxury tower set 6 piece',
